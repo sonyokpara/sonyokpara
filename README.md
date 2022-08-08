@@ -32,7 +32,7 @@
   
   I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
   
-  - :telescope: I'm actively looking for a remote internship or entry level role in data analystics.
+  - :telescope: I'm actively looking for a remote internship or entry level role in data analytics.
   
   - :seedling: Analyse data to extract insights to answer critical business questions
   
