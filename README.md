@@ -1,64 +1,36 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/sony-okpara-5318a9108/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://web.facebook.com/profile.php?id=100009489614565">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-    <a href="https://twitter.com/sony_okpara">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=sonyokpara&style=flat-square&color=blue" alt=""/>
-  
-  <h1>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
-  </div>
-  
-  ---
-  
-</div>
+## Hi, I'm Sony Okpara
 
-### :man_technologist: About Me :  
-  
-  I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
-  
-  - :telescope: I'm actively looking for a remote internship or entry level role in data analytics.
-  
-  - :seedling: Analyse data to extract insights to answer critical business questions
-  
-  - :zap: In my free time, I read tech articles and watch coding tutorials
-  
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sonyokpara-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sony-okpara-5318a9108/)
+I build backend systems with **TypeScript, Node.js and PostgreSQL**, with a focus on health insurance and healthcare data.
 
-### :hammer_and_wrench: Languages and Tools : 
+I'm the Ops & IT Manager at a private health insurance scheme in Ghana. I run the databases, infrastructure and business software behind policy administration, and I oversee day-to-day operations. I hold a First Class Honours degree in Computer Science and Engineering, and I'm now turning that hands-on systems experience into backend engineering, learning in public.
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>
- 
-</div>
+### What I'm working on
 
----
+- **[backend-engineering-journey](https://github.com/sonyokpara/backend-engineering-journey):** my 104-week backend engineering plan, with every project, note and weekly log in the open
+- **Up next:** a Policy Admin API for health insurance, built with TypeScript, Express, PostgreSQL and Docker
 
-### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sonyokpara&theme=dark&background=000000)](https://git.io/streak-stats) 
+<!--
+  As each milestone project ships, replace the "Up next" line with a list like this:
+  - **[Policy Admin API](https://github.com/sonyokpara/policy-admin-api):** REST API for members, policies and plans. TypeScript, Express, PostgreSQL, Docker, CI.
+  - **[Claims Intake Service](https://github.com/sonyokpara/claims-intake-service):** claims workflow with roles, audit trail and background jobs.
+  - **[Health Scheme Platform](https://github.com/sonyokpara/health-scheme-platform):** modular monolith with billing, replication, monitoring and FHIR export.
+-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyokpara&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### Tech I work with
+
+**Languages:** TypeScript, JavaScript, SQL  
+**Backend:** Node.js, Express, PostgreSQL  
+**Tools:** Git, Linux, Docker, GitHub Actions  
+**Currently learning:** testing, authentication, Redis and HL7 FHIR
+
+### Background
+
+- **Ops & IT Manager**, private health insurance scheme (2023–present): databases, infrastructure, company software and policy administration
+- **AWS AI Practitioner Challenge**, Udacity (2026)
+- **DevOps**, Udemy (2026)
+- **Data Analytics**, Udacity (2022) <!-- Use the exact course name from your Udacity certificate -->
+- **BSc Computer Science and Engineering**, First Class Honours (2017)
+
+### Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/sonyokpara)
