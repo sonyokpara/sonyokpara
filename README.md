@@ -23,13 +23,14 @@ I'm the Ops & IT Manager at a private health insurance scheme in Ghana. I run th
 **Tools:** Git, Linux, Docker, GitHub Actions  
 **Currently learning:** testing, authentication, Redis and HL7 FHIR
 
-### Background
-
+### Experience
 - **Ops & IT Manager**, private health insurance scheme (2023–present): databases, infrastructure, company software and policy administration
-- **AWS AI Practitioner Challenge**, Udacity (2026)
-- **DevOps**, Udemy (2026)
-- **Data Analytics**, Udacity (2022) <!-- Use the exact course name from your Udacity certificate -->
+
+### Education and certifications
 - **BSc Computer Science and Engineering**, First Class Honours (2017)
+- **AWS AI Practitioner Challenge**, Udacity (2026)
+- **DevOps**, Udemy (2025)
+- **Data Analytics**, Udacity (2022)
 
 ### Get in touch
 
